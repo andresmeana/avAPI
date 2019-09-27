@@ -1,12 +1,11 @@
-[
-  {
-    "id": 1,
-    "body": "Edgar Rocks",
-    "postId": 1
-  },
-  {
-    "id": 2,
-    "body": "Andres Rocks",
-    "postId": 1
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
