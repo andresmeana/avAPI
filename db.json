@@ -1,27 +1,22 @@
 {
-  "authentication": [
+  "status": [
     {
-      "id": 1,
-      "uniqueid": "CASTID"
-    },
-    {
-      "id": 2,
-      "uniqueid": "CASTEAVE"
+      "step": 1,
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "Edgar Rocks",
+      "body": "amb",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Andres Rocks",
+      "body": "am",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "Edgar Nunez Vehicle"
+    "name": "good"
   }
 }
