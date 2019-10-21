@@ -1,6 +1,6 @@
 {
   "status": {
-      "step": rideCompleted
+      "step": "rideComplete"
     },
   "comments": [
     {
