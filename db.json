@@ -1,6 +1,6 @@
 {
   "status": {
-      "step": "Auth"
+      "step": "toDestination"
     },
   "comments": [
     {
